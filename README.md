@@ -1,9 +1,5 @@
 # 🌟 AI Search Engine with Advanced Vector Search
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png" alt="AI Search Engine" style="border-radius: 10px;"/>
-</p>
-
 ---
 
 ## 🚀 **Overview**
@@ -45,9 +41,6 @@ The **AI Search Engine** revolutionizes traditional search methodologies by inte
 5. **Result Display**:
     - The top results are displayed to users in a visually appealing and user-friendly interface.
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png" alt="Workflow Diagram" style="border-radius: 10px;"/>
-</p>
 
 ---
 
