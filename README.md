@@ -12,7 +12,7 @@ The **AI Search Engine** revolutionizes traditional search methodologies by inte
 
 - **Semantic Search**: Understands the meaning behind user queries using vector embeddings.
 - **Efficient Vector Search**: Implements advanced similarity measures like cosine similarity for fast and accurate results.
-- **Model Integration**: Supports pre-trained NLP models like **Llama 3.1 GGUF**, **BERT**, and **Sentence-BERT**.
+- **Model Integration**: Supports pre-trained NLP models like **Llama 3.1 GGUF**, **Bge Large**.
 - **Scalable Architecture**: Combines MongoDB for data storage with FAISS or Pinecone for vector management.
 
 ---
@@ -25,10 +25,6 @@ The **AI Search Engine** revolutionizes traditional search methodologies by inte
 
 2. **Text Embeddings**:
     - Text data is converted into dense **vector embeddings** using pre-trained NLP models.
-    - Models include:
-      - Llama 3.1 GGUF
-      - Sentence-BERT
-      - OpenAI Embeddings
 
 3. **Query Processing**:
     - User queries are embedded into vectors.
